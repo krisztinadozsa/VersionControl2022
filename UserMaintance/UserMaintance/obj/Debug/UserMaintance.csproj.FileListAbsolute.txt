@@ -1,0 +1,11 @@
+C:\Users\K92SMX\source\repos\VersionControl2022\UserMaintance\UserMaintance\bin\Debug\UserMaintance.exe.config
+C:\Users\K92SMX\source\repos\VersionControl2022\UserMaintance\UserMaintance\bin\Debug\UserMaintance.exe
+C:\Users\K92SMX\source\repos\VersionControl2022\UserMaintance\UserMaintance\bin\Debug\UserMaintance.pdb
+C:\Users\K92SMX\source\repos\VersionControl2022\UserMaintance\UserMaintance\obj\Debug\UserMaintance.csproj.AssemblyReference.cache
+C:\Users\K92SMX\source\repos\VersionControl2022\UserMaintance\UserMaintance\obj\Debug\UserMaintance.Form1.resources
+C:\Users\K92SMX\source\repos\VersionControl2022\UserMaintance\UserMaintance\obj\Debug\UserMaintance.Properties.Resources.resources
+C:\Users\K92SMX\source\repos\VersionControl2022\UserMaintance\UserMaintance\obj\Debug\UserMaintance.Resource1.resources
+C:\Users\K92SMX\source\repos\VersionControl2022\UserMaintance\UserMaintance\obj\Debug\UserMaintance.csproj.GenerateResource.cache
+C:\Users\K92SMX\source\repos\VersionControl2022\UserMaintance\UserMaintance\obj\Debug\UserMaintance.csproj.CoreCompileInputs.cache
+C:\Users\K92SMX\source\repos\VersionControl2022\UserMaintance\UserMaintance\obj\Debug\UserMaintance.exe
+C:\Users\K92SMX\source\repos\VersionControl2022\UserMaintance\UserMaintance\obj\Debug\UserMaintance.pdb
